@@ -1,6 +1,7 @@
 <h1>Hi, I'm James, an <a href="https//linkedin.com/in/james-t-b75a081a8">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Compupter Hardware Projects:</h2>
+
 **Project Overview**
 
 This project is a culmination of a passion-driven venture that I've pursued over the last few years. It has been a fulfilling journey, aiding not only in my personal learning and skill enhancement but also in assisting those who are less technically inclined.
