@@ -22,6 +22,7 @@ This project has not only been a testament to my technical acumen but also a ref
 
 **Intel 13900k + Nvidia RTX 4090 aka the “GOD MODE” build**  
 ![image](https://github.com/JTTHEITGUY/JTTHEITGUY/assets/142637996/cf267283-a62f-4e3d-8415-39e60633bc7a)
+
 **Hardware Components**  
 Noctua NH-D15, Premium CPU Cooler with 2x NF-A15 PWM 140mm Fans (Brown)
 
@@ -41,7 +42,7 @@ ASUS TUF Gaming GeForce RTX 4090 OC Edition Gaming Graphics Card (PCIe 4.0, 24GB
 ![image](https://github.com/JTTHEITGUY/JTTHEITGUY/assets/142637996/211c7ac5-f735-4c57-920d-357241bf0102)
 
 **Nvidia RTX 3080 And Intel 12900K Build** 
-[![image]![image](https://github.com/JTTHEITGUY/JTTHEITGUY/assets/142637996/0c1a045d-65e5-4b59-9b55-fb3f4b29d17f)](https://imgur.com/fpQgS48)
+![image](https://github.com/JTTHEITGUY/JTTHEITGUY/assets/142637996/0c1a045d-65e5-4b59-9b55-fb3f4b29d17f)
 
 **Hardware Components**  
 Intel Core i9-12900K - Core i9 12th Gen Alder Lake 16-Core (8P+8E) 3.2 GHz LGA 1700 125W Intel UHD Graphics 770 Desktop Processor
