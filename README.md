@@ -39,13 +39,25 @@ SK hynix Platinum P41 2TB PCIe NVMe Gen4 M.2 2280 Internal Gaming SSD, Up to 7,0
 ASUS TUF Gaming GeForce RTX 4090 OC Edition Gaming Graphics Card (PCIe 4.0, 24GB GDDR6X, HDMI 2.1a, DisplayPort 1.4a) TUF-RTX4090
 ![image](https://github.com/JTTHEITGUY/JTTHEITGUY/assets/142637996/211c7ac5-f735-4c57-920d-357241bf0102)
 
-**Nvidia RTX 3070 And Intel 12900K Build** 
+**Nvidia RTX 3080 And Intel 12900K Build** 
 [![image]![image](https://github.com/JTTHEITGUY/JTTHEITGUY/assets/142637996/0c1a045d-65e5-4b59-9b55-fb3f4b29d17f)](https://imgur.com/fpQgS48)
 
 **Hardware Components**  
+Intel Core i9-12900K - Core i9 12th Gen Alder Lake 16-Core (8P+8E) 3.2 GHz LGA 1700 125W Intel UHD Graphics 770 Desktop Processor
 
+ASUS ROG Strix Z690-E Gaming WiFi 6E LGA 1700(Intel® 12th&13th Gen)ATX gaming motherboard(PCIe 5.0, DDR5,18+1 ower stages,2.5 Gb LAN,Bluetooth v5.2,Thunderbolt 4,support up to 5xM.2,1xPCIe 5.0 M.2)
 
+GIGABYTE - NVIDIA GeForce RTX 3080 GAMING OC 10GB GDDR6X PCI Express 4.0 Graphics Card - Black
 
+Noctua NH-D15, Premium CPU Cooler with 2x NF-A15 PWM 140mm Fans (Brown)
+
+CORSAIR Vengeance RGB Pro 64GB (2 x 32GB) 288-Pin PC RAM DDR4 3600 (PC4 28800) Desktop Memory
+
+CORSAIR RM1000e Fully Modular Low-Noise ATX Power Supply - ATX 3.0 & PCIe 5.0 Compliant - 105°C-Rated Capacitors - 80 PLUS Gold Efficiency - Modern Standby Support
+
+WD_BLACK SN850X NVMe M.2 2280 2TB PCI-Express 4.0 x4 Internal Solid State Drive (SSD) WDS200T2X0E
+
+Fractal Design Define 7 XL Black Brushed Aluminum / Steel E-ATX Silent Modular Full Tower Computer Case
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
