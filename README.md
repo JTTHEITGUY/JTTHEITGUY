@@ -20,7 +20,7 @@ In the role I undertook for this project, my primary focus was on constructing c
 This project has not only been a testament to my technical acumen but also a reflection of my commitment to client satisfaction and service excellence.
 
 
-**Intel 13900k and Nvidia RTX 4090 aka the “GOD MODE” build**  
+**Intel 13900k and Nvidia RTX 4090 aka the “GOD MODE” Build**  
 ![image](https://github.com/JTTHEITGUY/JTTHEITGUY/assets/142637996/cf267283-a62f-4e3d-8415-39e60633bc7a)
 
 **Hardware Components**  
