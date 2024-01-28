@@ -62,12 +62,11 @@ WD_BLACK SN850X NVMe M.2 2280 2TB PCI-Express 4.0 x4 Internal Solid State Drive 
 
 Fractal Design Define 7 XL Black Brushed Aluminum / Steel E-ATX Silent Modular Full Tower Computer Case
 
-👨‍💻Computer Hardware Project: Custom-Designed PC Solutions: Personalized Builds for Users
+
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-👨‍💻[Computer Hardware Project:](https://github.com/JTTHEITGUY/Custom-Designed-PC-Solutions:-Personalized-Builds-for-Users)
-
+[👨‍💻Computer Hardware Project: Custom-Designed PC Solutions: Personalized Builds for Users](https://github.com/JTTHEITGUY/Computer-Hardware-Project-Custom-Designed-PC-Solutions-Personalized-Builds-for-Users.git)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/JTTHEITGUY/Creating-a-Microsoft-Azure Resource-Group-using-Azure-CLI)
   - [osTicket: Post-Installation Configuration](https://github.com/JTTHEITGUY/post-install-config)
