@@ -14,11 +14,6 @@
   - [Creating a Microsoft Azure Resource Group using Azure CLI](https://github.com/JTTHEITGUY/Creating-a-Microsoft-Azure-Resource-Group-using-Azure-CLI)
 
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/JTTHEITGUY/Creating-a-Microsoft-Azure Resource-Group-using-Azure-CLI)
-  - [osTicket: Post-Installation Configuration](https://github.com/JTTHEITGUY/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/JTTHEITGUY/ticket-lifecycle)
-
 <p align="center">
 <br />
 
