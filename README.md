@@ -6,14 +6,19 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-[👨‍💻Computer Hardware Project: Custom-Designed PC Solutions: Personalized Builds for Users](https://github.com/JTTHEITGUY/Computer-Hardware-Project-Custom-Designed-PC-Solutions-Personalized-Builds-for-Users.git)
+
+- <b>Computer Hardware Projects:</b>
+  - [Custom-Designed PC Solutions: Personalized Builds for Users](https://github.com/JTTHEITGUY/Computer-Hardware-Project-Custom-Designed-PC-Solutions-Personalized-Builds-for-Users.git)
+
+- <b>Microsoft Azure Projects:</b>
+  - [Creating a Microsoft Azure Resource Group using Azure CLI](https://github.com/JTTHEITGUY/Creating-a-Microsoft-Azure-Resource-Group-using-Azure-CLI)
+
+
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/JTTHEITGUY/Creating-a-Microsoft-Azure Resource-Group-using-Azure-CLI)
   - [osTicket: Post-Installation Configuration](https://github.com/JTTHEITGUY/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/JTTHEITGUY/ticket-lifecycle)
 
-- <b>Microsoft Azure Projects </b>
-- [Creating a Microsoft Azure Resource Group using Azure CLI](https://github.com/JTTHEITGUY/Creating-a-Microsoft-Azure-Resource-Group-using-Azure-CLI)
 <p align="center">
 <br />
 
