@@ -69,7 +69,8 @@ Fractal Design Define 7 XL Black Brushed Aluminum / Steel E-ATX Silent Modular F
   - [osTicket: Ticket Lifecycle Examples](https://github.com/JTTHEITGUY/ticket-lifecycle)
 
 - <b>Microsoft Azure Projects </b>
- <p align="center">
+- [Creating a Microsoft Azure Resource Group using Azure CLI](https://github.com/JTTHEITGUY/Creating-a-Microsoft-Azure-Resource-Group-using-Azure-CLI)
+<p align="center">
 <br />
 
 </p>
