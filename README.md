@@ -1,7 +1,7 @@
 <h1>Hi, I'm James, an <a href="http://linkedin.com/in/james-t-b75a081a8">IT Professional</h1>
 
-<h2>👨‍💻 Computer Hardware Projects:</h2>
-Custom-Designed PC Solutions: Personalized Builds for Users
+<h2>👨‍💻Computer Hardware Project: Custom-Designed PC Solutions: Personalized Builds for Users:</h2>
+
 
 **Project Overview**
 
