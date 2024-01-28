@@ -64,7 +64,7 @@ Fractal Design Define 7 XL Black Brushed Aluminum / Steel E-ATX Silent Modular F
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/JTTHEITGUY/osticket-prereqs)
+  - [osTicket: Prerequisites and Installation](https://github.com/JTTHEITGUY/Creating-a-Microsoft-Azure Resource-Group-using-Azure-CLI)
   - [osTicket: Post-Installation Configuration](https://github.com/JTTHEITGUY/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/JTTHEITGUY/ticket-lifecycle)
 - <b>Microsoft Azure</b>
