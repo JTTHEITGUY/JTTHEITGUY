@@ -70,7 +70,7 @@ Fractal Design Define 7 XL Black Brushed Aluminum / Steel E-ATX Silent Modular F
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JTTHEITGUY/configure-ad)
   - Creating a Microsoft Azure Resource Group using Azure CLI (https://github.com/JTTHEITGUY/azure-network-protocols)
-Creating a Microsoft Azure Resource Group using Azure CLI
+
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
