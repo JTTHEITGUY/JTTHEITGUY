@@ -12,7 +12,7 @@
 
 - <b>Microsoft Azure Projects:</b>
   - [Creating a Microsoft Azure Resource Group using Azure CLI](https://github.com/JTTHEITGUY/Creating-a-Microsoft-Azure-Resource-Group-using-Azure-CLI)
-  - Azure Compute and Networking: ICMP, TCP and UDP
+
 
 <p align="center">
 <br />
