@@ -13,6 +13,9 @@
 - <b>Microsoft Azure Projects:</b>
   - [Creating a Microsoft Azure Resource Group using Azure CLI](https://github.com/JTTHEITGUY/Creating-a-Microsoft-Azure-Resource-Group-using-Azure-CLI)
 
+- <b>Networking Projects:</b>
+  - [Monitoring Network Protocols with Wireshark](https://github.com/JTTHEITGUY/Monitoring-Network-Protocols-with-Wireshark)
+  
 
 <p align="center">
 <br />
