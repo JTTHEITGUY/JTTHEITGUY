@@ -1,5 +1,4 @@
-<h1>Hi, I'm James, an <a href="http://linkedin.com/in/james-t-b75a081a8">IT Professional</h1>
-
+<h1>Hi, I'm James, an <a href="http://linkedin.com/in/james-t-b75a081a8">IT Professional with a knack for the Cloud!</h1>
 
 
 
